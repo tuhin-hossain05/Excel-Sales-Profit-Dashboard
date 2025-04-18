@@ -22,6 +22,6 @@ This project showcases a professional-level Excel dashboard that visualizes sale
 
 ## 📷 Preview
 
-![](./your-screenshot.png)
+![Dashboard Image](https://github.com/user-attachments/assets/114daa54-6cfb-4b32-a37e-8b9fa6b44f57)
 
 
